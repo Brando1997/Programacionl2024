@@ -1,0 +1,16 @@
+C:\Users\alvar\OneDrive\Escritorio\PrimerParcial\bin\Debug\net5.0\PrimerParcial.exe
+C:\Users\alvar\OneDrive\Escritorio\PrimerParcial\bin\Debug\net5.0\PrimerParcial.deps.json
+C:\Users\alvar\OneDrive\Escritorio\PrimerParcial\bin\Debug\net5.0\PrimerParcial.runtimeconfig.json
+C:\Users\alvar\OneDrive\Escritorio\PrimerParcial\bin\Debug\net5.0\PrimerParcial.runtimeconfig.dev.json
+C:\Users\alvar\OneDrive\Escritorio\PrimerParcial\bin\Debug\net5.0\PrimerParcial.dll
+C:\Users\alvar\OneDrive\Escritorio\PrimerParcial\bin\Debug\net5.0\PrimerParcial.pdb
+C:\Users\alvar\OneDrive\Escritorio\PrimerParcial\obj\Debug\net5.0\PrimerParcial.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\PrimerParcial\obj\Debug\net5.0\PrimerParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\PrimerParcial\obj\Debug\net5.0\PrimerParcial.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\PrimerParcial\obj\Debug\net5.0\PrimerParcial.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\PrimerParcial\obj\Debug\net5.0\PrimerParcial.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\PrimerParcial\obj\Debug\net5.0\PrimerParcial.dll
+C:\Users\alvar\OneDrive\Escritorio\PrimerParcial\obj\Debug\net5.0\refint\PrimerParcial.dll
+C:\Users\alvar\OneDrive\Escritorio\PrimerParcial\obj\Debug\net5.0\PrimerParcial.pdb
+C:\Users\alvar\OneDrive\Escritorio\PrimerParcial\obj\Debug\net5.0\PrimerParcial.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Escritorio\PrimerParcial\obj\Debug\net5.0\ref\PrimerParcial.dll
